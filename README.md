@@ -97,7 +97,7 @@ Contributions are welcome! Here's how you can contribute:
    git commit -m "Add: Description of your change"
 
 4. Push to your forked repository.
-  ```bash
+   ```bash
 
 
     git push origin feature-or-bugfix-name
