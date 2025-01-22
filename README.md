@@ -92,15 +92,41 @@ Contributions are welcome! Here's how you can contribute:
    
 3. Make your changes and commit them with clear descriptions.
    ```bash
+   
 
    git commit -m "Add: Description of your change"
 
 4. Push to your forked repository.
 ```bash
 
-git push origin feature-or-bugfix-name
+
+    git push origin feature-or-bugfix-name
 ```
 5. Open a pull request for review.
 
-   
+## 8️⃣ License  
+
+This project is licensed under the [MIT License](LICENSE).  
+
+---
+
+## 9️⃣ Contact  
+
+If you have any questions, suggestions, or feedback, feel free to reach out:  
+
+- **Email**: [keshav.arvindh@example.com]  
+- **LinkedIn**: [Keshav Arvindh](https://www.linkedin.com/in/keshavarvindh/)  
+
+---
+
+## 🔟 Thank You  
+
+Thank you for visiting the **Expense Tracker** repository!  
+
+If you find this project useful:  
+- ⭐ Please star the repository to show your support.  
+- 📝 Feel free to fork and contribute to make it even better.  
+
+Let’s build better tools for managing finances together! 😊  
+
 
