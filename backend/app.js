@@ -9,7 +9,7 @@ const app = express();
 
 //Connect to mongodb
 mongoose
-  .connect("mongodb+srv://wengaboy:mypassword@firstmongoproj.5guew.mongodb.net/expense-tracker") //your connection string
+  .connect("your-connection-string") //your connection string
   .then(() => console.log("DB Connected"))
   .catch((e) => console.log(e));
 
