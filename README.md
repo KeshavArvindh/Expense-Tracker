@@ -37,4 +37,18 @@ Follow these steps to set up the Expense Tracker on your local system:
 
    cd Expense-Tracker
 
+3. **Install dependencies:**
+   ```bash
+
+   npm install
+
+4. **Set up environment variables:**
+  --* Create a .env file in the root directory.
+  --* Add the following variables:
+  ```env
+
+   DATABASE_URL=your_database_connection_string
+   PORT=3000
+
+
 
