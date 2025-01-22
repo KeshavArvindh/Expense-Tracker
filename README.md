@@ -49,6 +49,58 @@ Follow these steps to set up the Expense Tracker on your local system:
 
    DATABASE_URL=your_database_connection_string
    PORT=3000
+```
+5. **Run the application:**
+   ```bash
 
+   npm start
 
+6. **Access the application:**
+   Open your browser and go to http://localhost:3000.
+
+## 5️⃣ Usage  
+
+1. **Add Transactions**: Enter income or expense details, assign categories, and save.  
+2. **Track Your Balance**: Monitor your current financial standing in real-time.  
+3. **Categorize Transactions**: Organize your spending for better insights.  
+4. *(Optional)* **Visualize Trends**: View graphs for an overview of spending habits.  
+
+---
+
+## 6️⃣ Screenshots  
+
+### 💻 Desktop View  
+![Desktop View](https://via.placeholder.com/800x400?text=Desktop+View)  
+
+### 📱 Mobile View  
+![Mobile View](https://via.placeholder.com/400x800?text=Mobile+View)  
+
+*(Replace these placeholders with actual screenshots of your project.)*  
+
+---
+
+## 7️⃣ Contributing  
+
+Contributions are welcome! Here's how you can contribute:  
+
+1. Fork this repository.  
+2. Create a new branch for your feature or bug fix.  
+   ```bash
+
+   
+   git checkout -b feature-or-bugfix-name
+   
+3. Make your changes and commit them with clear descriptions.
+   ```bash
+
+   git commit -m "Add: Description of your change"
+
+4. Push to your forked repository.
+```bash
+
+git push origin feature-or-bugfix-name
+```
+5. Open a pull request for review.
+
+   
 
