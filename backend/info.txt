@@ -1,0 +1,5 @@
+dependencies for model:
+express, mongoose
+
+dependencies for controllers:
+express-async-handler, bcrypt, jsonwebtoken
