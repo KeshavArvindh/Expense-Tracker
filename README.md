@@ -32,3 +32,9 @@ Follow these steps to set up the Expense Tracker on your local system:
    
    git clone https://github.com/KeshavArvindh/Expense-Tracker.git
 
+2. **Navigate to the project directory**:
+   ```bash
+
+   cd Expense-Tracker
+
+
