@@ -114,8 +114,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions, suggestions, or feedback, feel free to reach out:  
 
-- **Email**: [keshav.arvindh@example.com]  
-- **LinkedIn**: [Keshav Arvindh](https://www.linkedin.com/in/keshavarvindh/)  
+- **Email**: [akeshav0601@gmail.com]  
+- **LinkedIn**: [Keshav Arvindh](https://www.linkedin.com/in/akeshav0601/)  
 
 ---
 
