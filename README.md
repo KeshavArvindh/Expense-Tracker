@@ -40,7 +40,7 @@ Follow these steps to set up the Expense Tracker on your local system:
 3. **Install dependencies:**
    ```bash
 
-   npm install
+   npm install express mongoose cors bcrypt jsonwebtoken
 
 4. **Set up environment variables:**
    * Create a .env file in the root directory.
